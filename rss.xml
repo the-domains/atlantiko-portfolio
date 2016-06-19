@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Atlantiko Portfolio]]></title>
         <description><![CDATA[Atlantiko Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atlantiko-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 23:02:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 19 Jun 2016 23:22:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atlantiko-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portfolio]]></title>
             <description><![CDATA[<article><h1>Portfolio</h1><p>here are a few of the tasty treats that we have been serving or working on recently...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/842d27a1-08f9-4e7e-8270-a756603ec62d.jpg"></article>]]></description>
-            <link>undefinedportfolio/index.html</link>
+            <link>https://thegrid.ai/atlantiko-portfolio/portfolio/index.html</link>
             <guid isPermaLink="false">818459c2-148d-4a28-8341-a8bddd3bf4f7</guid>
             <pubDate>Sun, 19 Jun 2016 23:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.oyambre.es/blog/wp-content/uploads/San-Vicente-de-la-Barquera-05-02-2010.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko-portfolio/0fb50d83-75b0-4126-bb3d-02d1e091c6a0/index.html</link>
+            <guid isPermaLink="false">0fb50d83-75b0-4126-bb3d-02d1e091c6a0</guid>
+            <pubDate>Sun, 19 Jun 2016 23:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
