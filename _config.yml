@@ -1,0 +1,14 @@
+layout_spectrum: 0.5772472331300378
+typography_spectrum: 0.6514150633011013
+color:
+  brandStrength: 0.13454860006459057
+  lightness: 0.8767086907755584
+  saturation: 0.8248764874879271
+  rhythmicContrast: 0.7352324153762311
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Atlantiko Portfolio
